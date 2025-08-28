@@ -1,8 +1,8 @@
 # 👩🏽‍💻 Cristiane Meireles
 
-*QA Engineer | Testes Funcionais & Automação com Robot Framework*
+*`QA Engineer | Testes Funcionais & Automação com Robot Framework`*
 
-Olá! Me chamo Cristiane, QA Engineer com mais de 15 anos de experiência em TI, atuando em **testes funcionais, análise de requisitos, funcional e qualidade de software**. Atualmente, estou expandindo minha atuação para **automação de testes**, com foco em **Robot Framework e Python**, buscando unir minha bagagem em qualidade com habilidades modernas de automação.
+Olá! Eu sou a Cristiane, QA Engineer com mais de 15 anos de experiência em TI, atuando em *testes funcionais, análise de requisitos e qualidade de software. Atualmente, estou expandindo minha atuação para **automação de testes**, com foco em **Robot Framework e Python**, buscando unir minha bagagem em qualidade com habilidades modernas de automação.
 
 ---
 
@@ -41,6 +41,7 @@ Olá! Me chamo Cristiane, QA Engineer com mais de 15 anos de experiência em TI,
     alt="Robot Framework" 
     title="Robot Framework" 
     width="40px" 
+    height="40px"
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/robotframework/visual-identity/main/logo/robot-framework.svg" 
 />
@@ -48,7 +49,8 @@ Olá! Me chamo Cristiane, QA Engineer com mais de 15 anos de experiência em TI,
     align="left" 
     alt="Python" 
     title="Python" 
-    width="40px" 
+    width="30px" 
+    height="40px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 />
@@ -56,7 +58,8 @@ Olá! Me chamo Cristiane, QA Engineer com mais de 15 anos de experiência em TI,
     align="left" 
     alt="Git" 
     title="Git" 
-    width="40px" 
+    width="30px" 
+    height="40px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
@@ -64,14 +67,13 @@ Olá! Me chamo Cristiane, QA Engineer com mais de 15 anos de experiência em TI,
     align="left" 
     alt="Selenium" 
     title="Selenium" 
-    width="40px" 
+    width="30px" 
+    height="40px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" 
 />
 
-<br/>
-<br/>
-
+<br/><br/>
 ---
 
 ### 📂 Projetos em Desenvolvimento
