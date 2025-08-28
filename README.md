@@ -2,7 +2,7 @@
 
 *`QA Engineer | Testes Funcionais & Automação com Robot Framework`*
 
-Olá! Eu sou a Cristiane, QA Engineer com mais de 15 anos de experiência em TI, atuando em *testes funcionais, análise de requisitos e qualidade de software. Atualmente, estou expandindo minha atuação para **automação de testes**, com foco em **Robot Framework e Python**, buscando unir minha bagagem em qualidade com habilidades modernas de automação.
+Olá! Eu sou a Cristiane, QA Engineer com mais de 15 anos de experiência em TI, atuando em *testes funcionais*, *análise de requisitos* e *qualidade de software*. Atualmente, estou expandindo minha atuação para **automação de testes**, com foco em **Robot Framework e Python**, buscando unir minha bagagem em qualidade com habilidades modernas de automação.
 
 ---
 
