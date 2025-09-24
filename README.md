@@ -1,8 +1,9 @@
 # 👩🏽‍💻 Cristiane Meireles
 
-*`QA Engineer | Testes Funcionais & Automação com Robot Framework`*
+QA Engineer | Testes Funcionais & Automação de Testes
 
-Olá! Eu sou a Cristiane, QA Engineer com mais de 15 anos de experiência em TI, atuando em *testes funcionais*, *análise de requisitos e funcional* e *qualidade de software*. Atualmente, estou expandindo minha atuação para **automação de testes**, com foco em **Robot Framework e Python**, buscando unir minha bagagem em qualidade com habilidades modernas de automação.
+QA Engineer com *15+ anos de experiência em TI*, especialista em *testes funcionais, análise de requisitos e qualidade de software*.  
+Atualmente em transição para *automação de testes com Robot Framework e Python*, unindo minha bagagem em qualidade com habilidades modernas de automação.
 
 ---
 
@@ -34,52 +35,24 @@ Olá! Eu sou a Cristiane, QA Engineer com mais de 15 anos de experiência em TI,
 
 ---
 
-### 🤖 Tecnologias e Ferramentas que Estou Estudando
+### ⚙️ Tecnologias & Ferramentas
 
-<img 
-    align="left" 
-    alt="Robot Framework" 
-    title="Robot Framework" 
-    width="40px" 
-    height="40px"
-    style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/robotframework/visual-identity/main/logo/robot-framework.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python" 
-    width="30px" 
-    height="40px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="30px" 
-    height="40px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Selenium" 
-    title="Selenium" 
-    width="30px" 
-    height="40px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" 
-/>
+- *Experiência sólida em:* Testes Funcionais | Análise de Requisitos | Gestão de Qualidade  
+- *Estudos atuais:* Robot Framework 🤖 | Python 🐍 | Selenium 🧪 | Cypress 🌱  
+- *Testes Mobile:* BrowserStack 📱  
+- *Testes Back-end / API:* Postman 🔗  
+- *Gestão & Qualidade:* Jira | Confluence | HP ALM | Zephyr  
+- *Controle de versão:* Git | GitHub   
 
-<br/><br/>
 ---
 
 ### 📂 Projetos em Desenvolvimento
 
-- [Automação com Robot Framework](https://github.com/meirelescris/robot-framework-examples) – Scripts básicos para automação de testes web, com exemplos de boas práticas.  
-- [Estudos em Python](https://github.com/meirelescris/python-studies) – Exercícios e pequenos projetos para aprimorar lógica e sintaxe, aplicados ao contexto de QA.  
+- [Automação com Robot Framework](https://github.com/meirelescris/robot-framework-examples) – Exemplos práticos de automação de testes web.  
+- [Python Studies](https://github.com/meirelescris/python-studies) – Exercícios de lógica e Python aplicados ao contexto de QA.  
+- [Test Cases Docs](https://github.com/meirelescris/test-cases-docs) – Casos de teste documentados em planilha.  
+- [CTFL Study](https://github.com/meirelescris/ctfl-study) – Resumos e exercícios para preparação do exame CTFL.  
+- [GitHub Learning](https://github.com/meirelescris/github-learning) – Estudos de versionamento com Git e GitHub.  
 
 ---
 
@@ -99,4 +72,5 @@ Olá! Eu sou a Cristiane, QA Engineer com mais de 15 anos de experiência em TI,
 
 ---
 
-🎉 Obrigada pela visita ao meu perfil! Vamos nos conectar e crescer juntos.
+✨ Obrigada pela visita ao meu perfil!  
+Vamos nos conectar e crescer juntos 🚀
