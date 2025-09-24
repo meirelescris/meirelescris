@@ -37,7 +37,7 @@ Atualmente em transição para *automação de testes com Robot Framework e Pyth
 
 ### ⚙️ Tecnologias & Ferramentas
 
-- *Experiência sólida em:* Testes Funcionais | Análise de Requisitos | Gestão de Qualidade  
+- *Experiência sólida em:* Testes Funcionais | Análise de Requisitos | Gestão de Qualidade | Metodologia Ágil
 - *Estudos atuais:* Robot Framework 🤖 | Python 🐍 | Selenium 🧪 | Cypress 🌱  
 - *Testes Mobile:* BrowserStack 📱  
 - *Testes Back-end / API:* Postman 🔗  
