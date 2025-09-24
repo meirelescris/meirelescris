@@ -48,11 +48,11 @@ Atualmente em transição para *automação de testes com Robot Framework e Pyth
 
 ### 📂 Projetos em Desenvolvimento
 
-- [Automação com Robot Framework](https://github.com/meirelescris/robot-framework-examples) – Exemplos práticos de automação de testes web.  
-- [Python Studies](https://github.com/meirelescris/python-studies) – Exercícios de lógica e Python aplicados ao contexto de QA.  
-- [Test Cases Docs](https://github.com/meirelescris/test-cases-docs) – Casos de teste documentados em planilha.  
-- [CTFL Study](https://github.com/meirelescris/ctfl-study) – Resumos e exercícios para preparação do exame CTFL.  
-- [GitHub Learning](https://github.com/meirelescris/github-learning) – Estudos de versionamento com Git e GitHub.  
+- [CTFL Study](https://github.com/meirelescris/ctfl-study) — Estudos para certificação CTFL, incluindo anotações, simulados e resumos.
+- [Test Cases Docs](https://github.com/meirelescris/test-cases-docs) — Repositório com documentação de casos de teste em formato planilha.
+- [Robot Framework Testes](https://github.com/meirelescris/robotframework-testes) — Estudos e exemplos práticos de automação de testes utilizando Robot Framework.
+- [Cypress E2E](https://github.com/meirelescris/cypress-e2e) — Automação de testes end-to-end com Cypress.
+- [Postman Testes](https://github.com/meirelescris/postman-testes) — Exemplos de testes de API utilizando Postman. 
 
 ---
 
